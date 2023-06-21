@@ -1,0 +1,30 @@
+h2 {
+    font-size: 50px;
+  }
+  p {
+    font-size: 30px;
+  }
+  
+  .first {
+    background-color: antiquewhite;
+    font-size: 20px;
+  }
+  
+  .second {
+    background-color: rgb(235, 240, 240);
+    font-size: 20px;
+  }
+  
+  .third {
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 20px;
+  }
+  
+  .condition {
+    text-transform: capitalize;
+  }
+  .current {
+    background-color: ;
+  }
+  
